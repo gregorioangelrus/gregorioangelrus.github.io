@@ -1,14 +1,19 @@
 p {
     color:black;
 }
-body{
+body {
     background-color: wheat;
 }
 
-h1{
+h1 {
     color: black;
 }
-p{ 
+p { 
     color:blue:https://www.youtube.com/watch?v=LEbsx5sYZ3s
 }
-
+a {
+    color:darkblue;
+}
+a:hover {
+    color:blue;
+}
